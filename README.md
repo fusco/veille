@@ -2,12 +2,12 @@
 
 # veille techno
 
-Écrit par [David Demonchy](https://twitter.com/fusco_fr)
+Écrit par [David Demonchy](https://twitter.com/daviddemonchy)
 
 Support de cours concernant la veille techno à effectuer tous les jours.
 w
 
-# [POP School ]("http://pop.eu.com/popschool/")
+# [POP School ](http://pop.eu.com/popschool/)
 
     Pour les enfants du numérique !
 
@@ -23,4 +23,4 @@ w
 
 
 ------
-__Thanks at [reveal.js]("https://github.com/hakimel/reveal.js").__ These slides are based on his code.
+__Thanks at [reveal.js](https://github.com/hakimel/reveal.js).__ These slides are based on his code.
